@@ -51,7 +51,7 @@
     "utils-dirname": "^1.0.0"
   },
   "devDependencies": {
-    "angular": "1.6.0",
+    "angular": "1.8.3",
     "ava": "^0.19.1",
     "babel-cli": "^6.18.0",
     "prettier-eslint": "^5.1.0",
